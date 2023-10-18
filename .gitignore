@@ -5,6 +5,10 @@
 # env file
 .env
 
+#prisma files
+
+/prisma/migrations
+
 # Logs
 logs
 *.log
